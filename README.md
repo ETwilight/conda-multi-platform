@@ -61,3 +61,6 @@ Manually managing a well-curated conda_env.yml is more maintainable than relying
 
 Conda's architecture doesn't lend itself well to CI/CD simplicity:
 In contrast to pip + requirements.txt (or even poetry), Conda requires significantly more tooling to behave predictably across platforms.
+
+## Contact and maintain
+In short term I feel exhausted to continue maintaining and exploring on multi-platform possibilities, but if you are enthusiastic about this project, contact hellobrian18@gmail.com. Warning: This is far worse than you thought!
